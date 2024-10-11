@@ -23,7 +23,7 @@ Data Collection: Use Python libraries like pandas, yfinance, or requests to fetc
 Pattern Recognition: Leverage technical analysis libraries like TA-Lib, backtrader, or pandas-ta to compute and analyze technical indicators.
 Machine Learning: Use classification algorithms (like Decision Trees or Neural Networks) to detect patterns in stock data.
 ### 4. Data Storage and Management
-Database: Use a time-series database like InfluxDB or traditional relational databases like PostgreSQL to store analysed stocks and the analysis output data.
+Database: Host a database like PostgreSQL to store techinal pattern comparison detabase, and previously analysed stocks and the analysis output data.
 ### 5. Data Visualization
 Use tools like matplotlib, plotly, or seaborn to visualize stock price movements and pattern matches.
 Add visual indicators of matched patterns over stock charts.
